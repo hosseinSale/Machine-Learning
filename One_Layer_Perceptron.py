@@ -40,5 +40,4 @@ x = np.array([[1],[2],[3]])
 w = np.random.rand(3,1)
 pred_y = feedforward_net(x, w)
 sample_y = np.array([1])
-
-    
+plot
